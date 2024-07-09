@@ -25,7 +25,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+<ul>
+  <li>React Js</li>
+  <li>Bootstrap/Tailwind CSS</li>
+  <li>Python</li>
+  <li>Firebase</li>
+  <li>Redux</li>
+  <li>Git/GitHub</li>
+  <li>Figma</li>
+</ul>
 
 
 <div align="center">
