@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on *Open Source Project*
 
-- 💬 Ask me about *MERN , Frontend*
+- 💬 Ask me about *Frontend*
 
 - 📫 How to reach me *rishit.pushpkar14@gmail.com*
 
 - 📄 Know about my experiences
 
-- ⚡ Fun fact *I spend 2-3 hours watching Netflix 😊*
+- ⚡ Fun fact *I spend 2-3 hours watching Anime 😊*
 
 <h3 align="left">Connect with me:</h3>
 
